@@ -17,3 +17,6 @@ go to ui folder
 install packages: npm install
 go to servver: localhost:3000
 Ui will be displayed
+
+UI
+![image](https://user-images.githubusercontent.com/98800235/214494174-dbc7d8d0-078a-49eb-a538-421c48cb8388.png)
