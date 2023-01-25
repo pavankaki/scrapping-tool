@@ -1,0 +1,5 @@
+flask-restx
+pymongo
+requests
+pandas
+BeautifulSoup4
